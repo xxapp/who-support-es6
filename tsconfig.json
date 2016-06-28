@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "outDir": "dist/typescript",
+        "target": "ES5",
+        "noEmitOnError": true
+    },
+    "files": [
+        "src/export.ts",
+        "src/import.ts",
+        "src/feature.ts"
+    ]
+}
