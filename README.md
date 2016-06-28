@@ -2,5 +2,7 @@
 Who support es6 and how
 
 Babel vs Typescript
+
 Compare them waste time.
-Babel focus Polyfill and Typescript focus Type.
+
+Babel focus on Polyfill and Typescript focus on Type.
